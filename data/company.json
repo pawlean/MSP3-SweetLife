@@ -1,27 +1,32 @@
 [
     {
-        "name": "Katie Wisconsin",
-        "description": "'Each time I throw a party Sweet Life is my go-to. I found on the website some of the loveliest dessert spreads I have ever seen. The recipes will go through every detail with you until it’s just right. Everything is beautiful and delicious.'",
-        "image_source": "https://images.unsplash.com/photo-1516465879621-ba68889551a7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=688&q=80"
+        "name": "Kate Wisconsin",
+        "description": "Kate is a French-American pastry chef and owner of bakery in New York City. She is best known for her croissant-donut.",
+        "opinion": "'Each time I throw a party Sweet Life is my go-to. I found on the website some of the loveliest dessert spreads I have ever seen. The recipes will go through every detail with you until it’s just right. Everything is beautiful and delicious.'",
+        "image_source": "https://images.unsplash.com/photo-1625706888133-8180e9bb029f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80"
     },
     {
         "name": "Emmanuel Borowski",
-        "description": "'Thank you sooooo much for the most delicious muffins!!!! They not only tasted out of this world fabulous, they looked wonderful with the custom, hand made butterflies and dragonflies decorations!!! When our families saw the them, they jokingly asked if we can have dessert first because they remember all the previous wonderful desserts that I made for our birthday dinners!! We enjoyed every bite!!!'",
-        "image_source": "https://images.unsplash.com/photo-1588398076795-23a9f90bf1ff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2787&q=80"
+        "description": "Emmanuel is an American amateur pastry chef. In 2011, he was named one of the ten best amateur pastry chefs in America. He has also served as a judge in the 2013 US Pastry Competition and the Chicago Restaurant Pastry Competition, and as a guest amateur chef at the 2013 Friends of James Beard dinner, held by the James Beard Foundation.",
+        "opinion": "'Thank you sooooo much for the most delicious muffins!!!! They not only tasted out of this world fabulous, they looked wonderful with the custom, hand made butterflies and dragonflies decorations!!! When our families saw the them, they jokingly asked if we can have dessert first because they remember all the previous wonderful desserts that I made for our birthday dinners!! We enjoyed every bite!!!'",
+        "image_source": "https://images.unsplash.com/photo-1583444560967-5bc0c8eaf6f3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80"
     },
     {
         "name": "Laura Knudsen",
-        "description": "'As soon as I brought out the cake to place on the table, my daughter ran right over. She was speechless and it really took her breath away. I will never forger her facial expression, I could barely even make out “Is this my cake?” My guests loved it as well, they even made a line to take pictures. The cake was just so adorable and too pretty to cut. I really appreciate the time and effort :) THANKS SO MUCH SWEET LIFE! :)'",
-        "image_source": "https://images.unsplash.com/photo-1521310137449-68ce7d967620?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+        "description":"Laura is an Instagram Influencer based in Vancouver, Canada. She is mostly known for her artistic and coloured desserts. Laura first started to receive recognition for her desserts on social media in 2015. Today, known as the 'Glazing Queen', she teaches her worldwide Student Network through her extensive and technical Online Master Classes and Courses in Pastry Arts. In 2020, Laura released her third book 'Theory Guide: Great Glaze doesn't start with Glaze' representing her signature approach behind the shiny glaze and balanced entremets.",
+        "opinion": "'As soon as I brought out the cake to place on the table, my daughter ran right over. She was speechless and it really took her breath away. I will never forger her facial expression, I could barely even make out “Is this my cake?” My guests loved it as well, they even made a line to take pictures. The cake was just so adorable and too pretty to cut. I really appreciate the time and effort :) THANKS SO MUCH SWEET LIFE! :)'",
+        "image_source": "https://images.unsplash.com/photo-1630280717638-9551b39bcd2a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80"
     },
     {
         "name": "Hennry Bigtoe",
-        "description": "'Where do I begin? Do I call or go anywhere else? Never! Sweet Life is my baking goddess. What would I do without all of you guys? Seriously, I have been so blessed by testing your cookies, cakes and muffins.'",
-        "image_source": "https://images.unsplash.com/photo-1520330570844-2b3dae5b3d42?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+        "description": "Hennry is Executive Pastry Chef and partner of the very famous dessert restaurant in New Orleans, Louisiana. Hennry enrolled himself in culinary school at Oakland Community College. His first job in the restaurant industry was working the sandwich board at a deli in Southfield, Michigan. While searching for jobs in hot food, Hennry dabbled in pastries on the side.",
+        "opinion": "'Where do I begin? Do I call or go anywhere else? Never! Sweet Life is my baking goddess. What would I do without all of you guys? Seriously, I have been so blessed by testing your cookies, cakes and muffins.'",
+        "image_source": "https://images.unsplash.com/photo-1564980185316-3b3c0e0e0361?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80"
     },
     {
         "name": "Anita Krakowski",
-        "description": "'I just had to tell you how much I LOVED your cookies. I am a cookie lover, and yours were the ABSOLUTE BEST I’ve ever had. I could make them every day. Really...THE BEST EVER!'",
-        "image_source": "https://images.unsplash.com/photo-1601569747662-60a1415d9fc0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+        "description":"Anita is an Israeli pastry chef, bestselling cookbook author, and television personality. She began her culinary career at age 26 as a recipe writer and editor at the Israeli food magazine, and in 2006 published her first dessert cookbook, 'Sweet Secrets'. As of 2016 she has published five cookbooks, including one for children, and is the host of her own television baking show, also called 'Sweet Secrets'. In 2016, she became a judge on the new Israeli reality television show. She has an avid fan base.",
+        "opinion": "'I just had to tell you how much I LOVED your cookies. I am a cookie lover, and yours were the ABSOLUTE BEST I’ve ever had. I could make them every day. Really...THE BEST EVER!'",
+        "image_source": "https://images.unsplash.com/photo-1591719482857-3e6cb5a80ba5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80"
     }
 ]
